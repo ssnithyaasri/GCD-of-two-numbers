@@ -15,7 +15,10 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-python
+#program to find gcd
+#Developed by:Nithyaa sri S S 
+#RegisterNumber:22008434
+
 def gcd():
     n1,n2=int(input()),int(input())
     if n1>n2:
