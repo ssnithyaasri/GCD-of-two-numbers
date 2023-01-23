@@ -15,7 +15,7 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-#program to find gcd
+#program to find GCD of two numbers
 #Developed by:Nithyaa sri S S 
 #RegisterNumber:22008434
 
